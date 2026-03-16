@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Skynet Framework – Project Description
 
@@ -72,3 +73,7 @@ while keeping the framework **small, understandable, and fully customizable**.
 
 
 
+=======
+# skynet-framework
+Skynet is a minimalist PHP framework inspired by the elegance and developer experience of Laravel, designed to build both UI applications and RESTful APIs with a clean and modular architecture.
+>>>>>>> 206970fd0c429b5ff49e0a52892f6f781297b94a
