@@ -1,0 +1,14 @@
+{
+  "name": "skynet/framework",
+  "description": "Skynet PHP Framework",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Skynet\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.2"
+  }
+}
