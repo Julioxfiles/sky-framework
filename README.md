@@ -1,12 +1,4 @@
-Here is a **clean Markdown README section** you can use for **`skynet-framework`**. It includes:
 
-* short description
-* Composer installation
-* project creation (UI / API)
-
----
-
-````markdown
 # Skynet Framework
 
 **Skynet Framework** is a minimalist PHP framework inspired by Laravel, designed to build **UI applications and REST APIs** using modern architectural patterns such as **MVC, Clean Architecture, Hexagonal Architecture, and Onion Architecture**.
@@ -19,8 +11,6 @@ Skynet is ideal for:
 - UI applications
 - microservices
 - learning modern software architecture in PHP
-
----
 
 # Installation
 
@@ -127,15 +117,3 @@ MIT License
 
 ```
 
----
-
-If you want, I can also help you create a **much more professional README like Laravel's**, including:
-
-- 🚀 Features section  
-- 📦 Folder structure explained  
-- ⚡ Quick start  
-- 🔐 Middleware example  
-- 🧠 Architecture explanation  
-
-It will make **your GitHub project look like a real framework**.
-```
